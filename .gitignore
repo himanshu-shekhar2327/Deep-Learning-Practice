@@ -1,0 +1,9 @@
+# Jupyter notebooks
+*.ipynb text eol=lf
+
+# Code
+*.py text eol=lf
+*.md text eol=lf
+
+# Data files
+*.csv text eol=lf
